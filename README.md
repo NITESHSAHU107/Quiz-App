@@ -25,6 +25,14 @@ This project is a web-based quiz application that allows users to answer multipl
 ## Demo
 
 Insert a screenshot or GIF here to showcase how the app looks and works. You can host the image on an image hosting service or embed it directly.
+## Questions Demo:
+![first Question](https://github.com/NITESHSAHU107/Quiz-App/assets/111894844/5bc303bd-90fe-4699-809c-b59de81d7b52)
+## Winner Gif:
+
+![Winner](https://github.com/NITESHSAHU107/Quiz-App/assets/111894844/20250915-53f4-4480-af1a-5a1ec6fc9eb7)
+## Better Luck Gif:
+
+![Better Luck next Time](https://github.com/NITESHSAHU107/Quiz-App/assets/111894844/1b3b9ed3-1550-49dc-b551-4cb4f28a0950)
 
 ## Installation
 
